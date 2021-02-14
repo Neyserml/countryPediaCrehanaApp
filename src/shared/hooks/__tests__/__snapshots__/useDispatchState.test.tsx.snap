@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useDispatchState should provide dispatch and state values 1`] = `
+<div>
+  <strong>
+    crehana
+  </strong>
+</div>
+`;

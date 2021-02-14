@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component should match snapshot in home page 1`] = `
+<div>
+  <div
+    class="sc-hKgILt bpcmEC"
+  >
+    <nav
+      class="sc-dlfnbm etGDIC"
+    >
+      <nav
+        class="nav-wrapper"
+      >
+        <a
+          class="brand-logo"
+          href="#"
+        >
+          Crehana
+        </a>
+      </nav>
+    </nav>
+    <h3>
+      CountryPedia
+    </h3>
+    <div
+      class="container"
+    >
+      <input
+        placeholder="Ingrese nombre código de pais a buscar"
+        type="text"
+        value=""
+      />
+      <h6>
+        Filtrar por:
+      </h6>
+      <div
+        class="row"
+      >
+        <div
+          class="col s12 m4"
+        >
+          <select
+            class="browser-default"
+            name="language"
+          >
+            <option
+              disabled=""
+              selected=""
+              value=""
+            >
+              Idioma
+            </option>
+            <option
+              value="Pashto"
+            >
+              Pashto
+            </option>
+            <option
+              value="Uzbek"
+            >
+              Uzbek
+            </option>
+            <option
+              value="Turkmen"
+            >
+              Turkmen
+            </option>
+            <option
+              value="Swedish"
+            >
+              Swedish
+            </option>
+            <option
+              value="Albanian"
+            >
+              Albanian
+            </option>
+            <option
+              value="Arabic"
+            >
+              Arabic
+            </option>
+            <option
+              value="English"
+            >
+              English
+            </option>
+            <option
+              value="Samoan"
+            >
+              Samoan
+            </option>
+            <option
+              value="Catalan"
+            >
+              Catalan
+            </option>
+            <option
+              value="Portuguese"
+            >
+              Portuguese
+            </option>
+          </select>
+        </div>
+        <div
+          class="col s12 m4"
+        >
+          <select
+            class="browser-default"
+            name="currency"
+          >
+            <option
+              disabled=""
+              selected=""
+              value=""
+            >
+              Moneda
+            </option>
+            <option
+              value="Afghan afghani"
+            >
+              Afghan afghani
+            </option>
+            <option
+              value="Euro"
+            >
+              Euro
+            </option>
+            <option
+              value="Albanian lek"
+            >
+              Albanian lek
+            </option>
+            <option
+              value="Algerian dinar"
+            >
+              Algerian dinar
+            </option>
+            <option
+              value="United State Dollar"
+            >
+              United State Dollar
+            </option>
+            <option
+              value="Angolan kwanza"
+            >
+              Angolan kwanza
+            </option>
+            <option
+              value="East Caribbean dollar"
+            >
+              East Caribbean dollar
+            </option>
+            <option
+              value="Australian dollar"
+            >
+              Australian dollar
+            </option>
+            <option
+              value="British pound"
+            >
+              British pound
+            </option>
+          </select>
+        </div>
+        <div
+          class="col s12 m4"
+        >
+          <select
+            class="browser-default"
+            name="region"
+          >
+            <option
+              disabled=""
+              selected=""
+              value=""
+            >
+              Región
+            </option>
+            <option
+              value="Asia"
+            >
+              Asia
+            </option>
+            <option
+              value="Europe"
+            >
+              Europe
+            </option>
+            <option
+              value="Africa"
+            >
+              Africa
+            </option>
+            <option
+              value="Oceania"
+            >
+              Oceania
+            </option>
+            <option
+              value="Americas"
+            >
+              Americas
+            </option>
+            <option
+              value="Polar"
+            >
+              Polar
+            </option>
+          </select>
+        </div>
+      </div>
+      <button
+        class="btn waves-effect waves-light red"
+        name="action"
+        type="submit"
+      >
+        Limpiar
+      </button>
+      <div
+        class="row"
+      >
+        <div
+          class="preloader-wrapper big active"
+        >
+          <div
+            class="spinner-layer spinner-blue-only"
+          >
+            <div
+              class="circle-clipper left"
+            >
+              <div
+                class="circle"
+              />
+            </div>
+          </div>
+        </div>
+        <label>
+          No se encontraron resultados.
+        </label>
+      </div>
+    </div>
+  </div>
+</div>
+`;

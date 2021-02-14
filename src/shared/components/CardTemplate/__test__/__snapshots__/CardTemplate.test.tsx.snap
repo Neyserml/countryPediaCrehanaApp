@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Template Component should match snapshot in card template component 1`] = `
+<div>
+  <div
+    class="sc-gsTCUz fwTMXJ"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-image waves-effect waves-block waves-light"
+      >
+        <img
+          class="sc-bdfBwQ iPjGkV"
+          src="img.jpg"
+        />
+      </div>
+      <div
+        class="card-content"
+      >
+        <span
+          class="card-title activator grey-text text-darken-4"
+        >
+          <b>
+            Peru
+          </b>
+        </span>
+        <h3>
+          prueba
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;
